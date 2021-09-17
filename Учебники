@@ -1,0 +1,12 @@
+{
+  "username": "Учебники",
+  "avatar_url": "https://www.crushpixel.com/big-static16/preview4/open-book-black-glyph-icon-2239128.jpg",
+  "content": null,
+  "embeds": [
+    {
+      "title": "Учебники, которые нам советовали преподаватели:",
+      "description": "1) Общая химия: [Глинка](http://lib.maupfib.kg/wp-content/uploads/2015/12/glinka_obshaja_himija.pdf)\n2) Химия: [Карцова, Лёвкин 11 класс](https://chemistryonline.ru/media/10кл.%20профиль%20Карцова,%20Лёвкин.PDF)\n3) Введение в биологию: [Кемп, Армс](https://vk.com/doc3489450_477206108?hash=960fc79bbdd9912c7f&dl=00f6d6d464c979892d)\n4) Морфология и анатомия высших растений: [Лотова](http://msu-botany.ru/gallery/lotova_2001_morpf_i_anatom_vyssh_rast.pdf)\n5) Зоология беспозвоночных: [Догель](https://vk.com/doc36408651_261658903?hash=0a6975c72ed0cf163c&dl=fec1f112bfd23f505f)\n6) Протистология: [Хаусман](https://vk.com/doc95014293_437801747?hash=01b8b6b3fafeafef40&dl=523ed23a200e9cf0c6)\n7) Азы экономики: [Бойко](http://azy-economiki.ru/docs/the_basics_of_Economics.pdf) (для прошаренных [Нуреев](https://library.rosvuz.ru/files/library/book/cf3a5f03b71dfc813f685295544fd1c2.pdf))",
+      "color": 0
+    }
+  ]
+}
