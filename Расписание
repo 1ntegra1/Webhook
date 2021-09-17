@@ -1,0 +1,81 @@
+{
+  "content": "Обновление от 17.09",
+  "embeds": [
+    {
+      "title": "Русский язык и культура речи",
+      "description": "[Лекционный курс РЯиКР](https://moodle.herzen.spb.ru/course/view.php?id=17180): 2 тема(всё) **сделать к 20.09**\n[Практический курс](https://moodle.herzen.spb.ru/course/view.php?id=21492): Контрольный тест «словари и речевая культура **сделать до 19.09 23:00**",
+      "color": 6641919,
+      "footer": {
+        "text": "Четырина Анна Михайловна                                                                                anna_chet@mail.ru",
+        "icon_url": "https://www.herzen.spb.ru/uploads/pavlovaok/images/IMG_6844.jpg"
+      }
+    },
+    {
+      "title": "Философия",
+      "description": "Видеолекции: [Учения о первоначале (архэ) у досократиков](https://youtu.be/RRdKWgkuLko), [Учение Платонаоб эйдосах](https://youtu.be/13_7EV3_poc), [Креационизм. Творец и сотворенное (тварное) бытие](https://youtu.be/aC_rr1te3gQ), [Философия и картина мира](https://youtu.be/AW7eDf1qI50)\nЧитать текст *(текст будет позже)*\n**сделать к 23.09**",
+      "color": 6641919,
+      "footer": {
+        "text": "Крюков Алексей Николаевич",
+        "icon_url": "https://yomed.ru/imgs/persons/186097/03a1cdbe8f2f63690e6d0081bdda1010.png"
+      }
+    },
+    {
+      "title": "Введение в биологию",
+      "description": "Делать все задания в мудле, учить аксиомы **к 22.09**\n\n1) Все живые организмы оказываются единством фенотипа и программы для его построения (генотипа), передающейся по наследству из поколения в поколение\n2) Наследственные молекулы синтезируются матричным путем. В качестве матрицы, на которой строится ген будущего поколения, используется ген предыдущего поколения\n3) В процессе передачи из поколения в поколение генетические программы в результате многих причин изменяются случайно и ненаправленно, и лишь случайно эти изменения оказываются приспособительными \n4) Случайные изменения генетических программ при становлении фенотипов многократно усиливаются и подвергаются отбору условиями внешней среды",
+      "color": 6641919,
+      "footer": {
+        "text": "Горбунов Пётр Станиславович                 psgor@mail.ru                 pgorbunov@herzen.spb.ru",
+        "icon_url": "https://vppk.herzen.spb.ru/public/avatars/29.jpg"
+      }
+    },
+    {
+      "title": "Химия",
+      "description": "Все задания на личточка А4 (распечатка) **к 21.09**",
+      "color": 6641919,
+      "footer": {
+        "text": "Лёвкин Антон Николаевич                    andgray@yandex.ru                    https://vk.com/anlev",
+        "icon_url": "https://www.herzen.spb.ru/img/files/velveeta//AN_LEVKIN.jpg"
+      },
+      "image": {
+        "url": "https://images-ext-2.discordapp.net/external/3ruW9-eZ-UiSOMR-Or9P_lwKxMYnbWhHgayXy3W7kDA/%3Fsize%3D1200x1600%26quality%3D96%26sign%3D0e6d7d1732ce8942f89b9e05e40fa55c%26type%3Dalbum/https/sun9-4.userapi.com/impg/fI-iQs9V5cZJH-lPj_iVdW-tT2Potmt-23sgdg/_oI5ETu2-KA.jpg?width=507&height=676"
+      }
+    },
+    {
+      "title": "Экономика",
+      "description": "В [мудле](https://moodle.herzen.spb.ru/course/view.php?id=19059) тест 1 и тест 2, по одному-двум заданиям из первых двух тем **к 20.09**",
+      "color": 6641919,
+      "footer": {
+        "text": "Гуляева Валерия Борисовна                                                                  valeria.gyliaeva@yandex.ru",
+        "icon_url": "https://maginnov.ru/assets/images/authors/gulyaeva-v.b.jpeg"
+      }
+    },
+    {
+      "title": "Физическая культура",
+      "description": "Продолжать делать темы в [мудле](https://moodle.herzen.spb.ru/course/view.php?id=13041)",
+      "color": 6641919,
+      "footer": {
+        "text": "`                                                                                                                                                                                    `"
+      }
+    },
+    {
+      "title": "Анатомия и морфология растений",
+      "description": "7-я тема в [мудле](https://moodle.herzen.spb.ru/course/view.php?id=8136) *(просрочена, я хз, мы написали преподу)*",
+      "color": 6641919,
+      "footer": {
+        "text": "Шамров Иван Иванович                                                                              ishamrov@herzen.spb.ru",
+        "icon_url": "https://www.binran.ru/upload/iblock/4ed/4ed3deb44b7e5d6f3c8c49c65cee24a3.jpg"
+      }
+    },
+    {
+      "title": "Протисты и низшие метазои",
+      "description": "*Доступ к курсу будет позже*",
+      "color": 6641919,
+      "footer": {
+        "text": "Атаев Геннадий Леонидович                                                                            ataev@herzen.spb.ru",
+        "icon_url": "https://www.herzen.spb.ru/img/files/dekanat_b//Zoologiya_2013/G.L._Ataev.JPG"
+      }
+    }
+  ],
+  "username": "Расписание",
+  "avatar_url": "https://e7.pngegg.com/pngimages/524/691/png-clipart-computer-icons-calendar-date-schedule-miscellaneous-calendar.png"
+}
